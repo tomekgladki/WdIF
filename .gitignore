@@ -1,0 +1,14 @@
+# R
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj.user
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output files - MOŻESZ USUNĄĆ TE LINIJKI JEŚLI CHCESZ ZACHOWAĆ WYKRESY
+# *.png
+# *.pdf
+# *.html
